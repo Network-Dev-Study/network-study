@@ -43,7 +43,8 @@
 
 |주차|일자|강의 진도|책 범위|진행여부|
 |:-:|:-:|:-|:-:|:-:|
-|1주차|2023년 10월 20일 (금)|[네트워크 어플리케이션의 원리](http://www.kocw.net/home/cview.do?cid=6b984f376cfb8f70)|p73 ~ p98|-|
+|1주차|2023년 10월 20일 (금)|[네트워크 어플리케이션의 원리](http://www.kocw.net/home/cview.do?cid=6b984f376cfb8f70)|p73 ~ p98|✅|
+|2주차|2023년 10월 27일 (금)|[DNS: Domain Name System](http://www.kocw.net/home/cview.do?cid=6b984f376cfb8f70), [UDP와 TCP를 이용한 Socket 프로그래밍](http://www.kocw.net/home/cview.do?cid=6b984f376cfb8f70)|p98~p151|-|
 
 <br>
 
