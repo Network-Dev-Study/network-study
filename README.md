@@ -41,11 +41,11 @@
 
 ## 📝 진행 현황
 
-|주차|일자|강의 진도|책 범위|진행여부|
-|:-:|:-:|:-|:-:|:-:|
-|1주차|2023년 10월 20일 (금)|[네트워크 어플리케이션의 원리](http://www.kocw.net/home/cview.do?cid=6b984f376cfb8f70)|p73 ~ p98|✅|
-|2주차|2023년 10월 27일 (금)|[DNS: Domain Name System](http://www.kocw.net/home/cview.do?lid=e67188e032632367), [UDP와 TCP를 이용한 Socket 프로그래밍](http://www.kocw.net/home/cview.do?lid=0ca76babb9049fce)|p98~p151|✅|
-|3주차|2023년 11월 03일 (금)|[전송 계층 서비스의 원리](http://www.kocw.net/home/cview.do?lid=cb80decca73d3e5b)|p106 ~ p111, p165 ~ p183|-|
+|주차|일자|강의 진도|책 범위|진행여부|스터디 일지|
+|:-:|:-:|:-|:-:|:-:|:-:|
+|1주차|2023년 10월 20일 (금)|[네트워크 어플리케이션의 원리](http://www.kocw.net/home/cview.do?cid=6b984f376cfb8f70)|p73 ~ p98|✅|링크|
+|2주차|2023년 10월 27일 (금)|[DNS: Domain Name System](http://www.kocw.net/home/cview.do?lid=e67188e032632367), [UDP와 TCP를 이용한 Socket 프로그래밍](http://www.kocw.net/home/cview.do?lid=0ca76babb9049fce)|p98~p151|✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/%5B%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9D%BC%EC%A7%80%5D-2023%EB%85%84-10%EC%9B%94-27%EC%9D%BC-(%EA%B8%88))|
+|3주차|2023년 11월 03일 (금)|[전송 계층 서비스의 원리](http://www.kocw.net/home/cview.do?lid=cb80decca73d3e5b)|p106 ~ p111, p165 ~ p183|-|[링크](https://github.com/Network-Dev-Study/network-study/wiki/%5B%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9D%BC%EC%A7%80%5D-2023%EB%85%84-11%EC%9B%94-03%EC%9D%BC-(%EA%B8%88))|
 
 <br>
 
