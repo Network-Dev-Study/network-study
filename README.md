@@ -48,7 +48,7 @@
 |3주차|2023년 11월 03일 (금)|[전송 계층 서비스의 원리](http://www.kocw.net/home/cview.do?lid=cb80decca73d3e5b)|p106 ~ p111, p165 ~ p183|✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/%5B%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9D%BC%EC%A7%80%5D-2023%EB%85%84-11%EC%9B%94-03%EC%9D%BC-(%EA%B8%88))|
 |4주차|2023년 11월 10일 (금)|[rdt 원리](http://www.kocw.net/home/cview.do?lid=27779f1d9e8ccb8d)|p183 ~ p206|✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2023%EB%85%84-11%EC%9B%94-10%EC%9D%BC-(%EA%B8%88))|
 |5주차|2023년 11월 17일 (금)|[연결 지향 전송 : TCP](http://www.kocw.net/home/cview.do?lid=b698772dc3a433d7)|p206 ~ p224|✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2023%EB%85%84-11%EC%9B%94-17%EC%9D%BC-(%EA%B8%88))|
-|6주차|2023년 11월 24일 (금)|[TCP 흐름 제어](http://www.kocw.net/home/cview.do?lid=cae328a8c57a1825)|p224 ~ p233|-|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2023%EB%85%84-11%EC%9B%94-24%EC%9D%BC-(%EA%B8%88))|
+|6주차|2023년 11월 24일 (금)|[TCP 흐름 제어](http://www.kocw.net/home/cview.do?lid=cae328a8c57a1825)|p224 ~ p233|✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2023%EB%85%84-11%EC%9B%94-24%EC%9D%BC-(%EA%B8%88))|
 
 <br>
 
