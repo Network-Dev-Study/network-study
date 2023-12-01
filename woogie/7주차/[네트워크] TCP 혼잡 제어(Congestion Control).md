@@ -51,7 +51,7 @@
 
 **TCP Tahoe**
 - Jacobson의 혼잡제어 매커니즘을 기반으로, Fast Recovery를 제외한 기타 모든 기능 포함
-  - 슬로우 스타트(Slow Start) + 혼잡 회피(Congestion Avoidance) + 빠른 회복(Fast Retransmit)
+  - 슬로우 스타트(Slow Start) + 혼잡 회피(Congestion Avoidance) + 빠른 재전송(Fast Retransmit)
 - 혼잡 인식
   - Timeout
   - 중복 ACK
@@ -63,7 +63,7 @@
 
 **TCP Reno**
 - 위 Tahoe 구현에 Fast Recovery 등도 추가 
-  - 슬로우 스타트(Slow Start) + 혼잡 회피(Congestion Avoidance) + 빠른 회복(Fast Retransmit) + 빠른 회복(Fast Recovery)
+  - 슬로우 스타트(Slow Start) + 혼잡 회피(Congestion Avoidance) + 빠른 재전송(Fast Retransmit) + 빠른 복구(Fast Recovery)
 - 혼잡 인식(tahoe와 동일)
   - Timeout
   - 중복 ACK
