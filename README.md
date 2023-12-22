@@ -51,7 +51,8 @@
 |6주차|2023년 11월 24일 (금)|[TCP 흐름 제어](http://www.kocw.net/home/cview.do?lid=cae328a8c57a1825)|p224 ~ p233|✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2023%EB%85%84-11%EC%9B%94-24%EC%9D%BC-(%EA%B8%88))|
 |7주차|2023년 12월 01일 (금)|[TCP 혼잡 제어](http://www.kocw.net/home/cview.do?lid=b2838b7af0a22679)|-|✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2023%EB%85%84-12%EC%9B%94-01%EC%9D%BC-(%EA%B8%88))|
 |8주차|2023년 12월 08일 (금)|[네트워크 계층 서비스](http://www.kocw.net/home/cview.do?lid=925d795cbafa07f4)|-|✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2023%EB%85%84-12%EC%9B%94-08%EC%9D%BC-(%EA%B8%88))|
-|9주차|2023년 12월 15일 (금)|[Network Address Translation](http://www.kocw.net/home/cview.do?lid=695afd6e5a71d273)||-|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2023%EB%85%84-12%EC%9B%94-15%EC%9D%BC-(%EA%B8%88))|
+|9주차|2023년 12월 15일 (금)|[Network Address Translation](http://www.kocw.net/home/cview.do?lid=695afd6e5a71d273)||✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2023%EB%85%84-12%EC%9B%94-15%EC%9D%BC-(%EA%B8%88))|
+|10주차|2023년 12월 22일 (금)|[라우팅 알고리즘](http://www.kocw.net/home/cview.do?lid=b70358266edea5de)||✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2023%EB%85%84-12%EC%9B%94-22%EC%9D%BC-(%EA%B8%88))|
 
 <br>
 
