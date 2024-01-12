@@ -54,7 +54,7 @@
 |9주차|2023년 12월 15일 (금)|[Network Address Translation](http://www.kocw.net/home/cview.do?lid=695afd6e5a71d273)|p311 ~ p327|✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2023%EB%85%84-12%EC%9B%94-15%EC%9D%BC-(%EA%B8%88))|
 |10주차|2023년 12월 22일 (금)|[라우팅 알고리즘](http://www.kocw.net/home/cview.do?lid=b70358266edea5de)|p339 ~ p348|✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2023%EB%85%84-12%EC%9B%94-22%EC%9D%BC-(%EA%B8%88))|
 |11주차|2024년 01월 05일 (금)|[거리 백터 알고리즘](http://www.kocw.net/home/cview.do?lid=55b2061d411bfb98)|p348 ~ p355|✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2024%EB%85%84-01%EC%9B%94-05%EC%9D%BC-(%EA%B8%88))|
-|12주차|2024년 01월 12일 (금)|[계층적 경로 변경](http://www.kocw.net/home/cview.do?lid=d52a9848eb4f0896)|356 ~ p370|-|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2024%EB%85%84-01%EC%9B%94-12%EC%9D%BC-(%EA%B8%88))|
+|12주차|2024년 01월 12일 (금)|[계층적 경로 변경](http://www.kocw.net/home/cview.do?lid=d52a9848eb4f0896)|356 ~ p370|✅|[링크](https://github.com/Network-Dev-Study/network-study/wiki/2024%EB%85%84-01%EC%9B%94-12%EC%9D%BC-(%EA%B8%88))|
 
 <br>
 
